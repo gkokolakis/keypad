@@ -34,3 +34,4 @@ This code turns an esp32 to a custom bluetooth keybard. The keyboard is programm
    G54
    Shift+F5:sendhex 93
    Shift+F6:sendhex 94
+   
