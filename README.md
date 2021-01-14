@@ -2,4 +2,5 @@ This code turns an esp32 to a custom bluetooth keybard. The keyboard is programm
    
    This code is based on the Ble keyboard library of T-vk (https://github.com/T-vK/ESP32-BLE-Keyboard) and the keypad library by Mark Stanley and Alexander Brevig (https://playground.arduino.cc/Code/Keypad/). 
    
-   The idea to make this code was from the great work of witnessmenow found on this instractables tutorial: https://www.instructables.com/DIY-Bluetooth-Macro-Keypad
+   The idea to make this code was from the great work of witnessmenow found on this instractables tutorial: https://www.instructables.com/DIY-Bluetooth-Macro-Keypad.
+   The keypad.png file is a simple drawing i created and glued over the matrix keypad in order to have a "real" custom keyboard and to avoid having to remember what every key        does. 
